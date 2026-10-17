@@ -23,15 +23,6 @@ python pipeline_gempa.py
 ```
 link index.html  https://krbara.github.io/studi-kasus-gis-gempa/
 
-## Catatan penting
-
-- Jika API tidak dapat diakses, skrip memakai **data contoh sintetis** dan dashboard menandainya dengan label merah.
-  Data contoh bukan data gempa sebenarnya.
-- Ini proyek pembelajaran, **bukan sumber informasi kebencanaan**. Untuk informasi resmi, rujuk BMKG.
-- Lingkup data: sekitar Sumatera, 30 hari terakhir, magnitudo ≥ 2.5 (dapat diubah di bagian atas `pipeline_gempa.py`).
-- GitHub menonaktifkan workflow terjadwal pada repo publik yang tidak aktif selama 60 hari.
-- Karena Actions membuat commit sendiri, jalankan `git pull --rebase origin main` sebelum `git push` dari laptop.
-
 ## Pengembangan lanjutan
 
 Menambah sumber BMKG, peta panas (*heatmap*), analisis kedekatan dengan sesar, atau menyimpan riwayat ke PostGIS.
