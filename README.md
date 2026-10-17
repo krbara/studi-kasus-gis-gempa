@@ -19,15 +19,9 @@ Berdasarkan kuliah praktisi **"Career and Competition in Industrial Era with GIS
 
 ```bash
 pip install -r requirements.txt
-python pipeline_gempa.py      # ambil data -> olah -> bangun docs/index.html
+python pipeline_gempa.py      
 ```
-
-Buka `docs/index.html` di browser (perlu internet untuk peta dasar OpenStreetMap).
-
-## Otomasi (GitHub Actions)
-
-`.github/workflows/update.yml` menjalankan pipeline tiap 6 jam dan meng-commit hasilnya. Bisa juga dijalankan manual
-dari tab **Actions → Perbarui peta gempa → Run workflow**. Aktifkan GitHub Pages dari **Settings → Pages → main, /docs**.
+link index.html  https://krbara.github.io/studi-kasus-gis-gempa/
 
 ## Catatan penting
 
