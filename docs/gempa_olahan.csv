@@ -3,7 +3,7 @@ waktu,mag,depth,lat,lon,tempat,kelas,kota,jarak_km,jarak_bkl
 13 Oct 06:47,4.4,10.0,-5.732,102.207,"213 km S of Bengkulu, Indonesia",Ringan,Bengkulu,215,215
 11 Oct 04:38,4.5,29.6,-5.403,102.542,"171 km SSW of Pagar Alam, Indonesia",Ringan,Bengkulu,181,181
 09 Oct 16:47,4.9,40.8,-1.887,100.272,"77 km ENE of Tuapejat, Indonesia",Ringan,Padang,105,307
-08 Oct 22:23,4.7,50.6,-3.459,101.589,"84 km WNW of Bengkulu, Indonesia",Ringan,Bengkulu,84,84
+08 Oct 22:23,4.7,41.6,-3.489,101.576,"84 km WNW of Bengkulu, Indonesia",Ringan,Bengkulu,83,83
 08 Oct 14:45,4.5,88.6,5.457,94.702,"70 km W of Banda Aceh, Indonesia",Ringan,Banda Aceh,69,1328
 08 Oct 04:18,4.0,35.0,2.057,97.14,"76 km WSW of Singkil, Indonesia",Ringan,Medan,241,865
 07 Oct 02:02,4.5,93.1,-3.697,101.903,"41 km WNW of Bengkulu, Indonesia",Ringan,Bengkulu,41,41
@@ -15,4 +15,3 @@ waktu,mag,depth,lat,lon,tempat,kelas,kota,jarak_km,jarak_bkl
 23 Sep 15:55,4.4,126.7,1.988,99.07,"42 km NE of Sibolga, Indonesia",Ringan,Medan,184,735
 23 Sep 05:27,4.5,35.0,-6.889,105.486,"68 km SW of Labuan, Indonesia",Ringan,Bandar Lampung,164,496
 21 Sep 19:35,4.4,25.6,-1.061,98.966,"127 km NNW of Tuapejat, Indonesia",Ringan,Padang,154,476
-18 Sep 23:37,4.6,86.1,-4.113,102.23,"34 km S of Bengkulu, Indonesia",Ringan,Bengkulu,35,35
