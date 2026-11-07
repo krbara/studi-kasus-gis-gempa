@@ -1,4 +1,5 @@
 waktu,mag,depth,lat,lon,tempat,kelas,kota,jarak_km,jarak_bkl
+07 Nov 13:53,4.4,50.0,4.292,95.305,"92 km W of Meulaboh, Indonesia",Ringan,Banda Aceh,140,1186
 28 Oct 06:51,4.3,192.5,-5.917,106.51,"23 km NNW of Sepatan, Indonesia",Ringan,Bandar Lampung,149,526
 22 Oct 17:57,4.9,135.3,-2.804,102.127,"85 km NNW of Curup, Indonesia",Ringan,Bengkulu,112,112
 20 Oct 23:29,5.0,75.9,4.0,95.993,"21 km SW of Meulaboh, Indonesia",Sedang,Banda Aceh,188,1112
@@ -9,4 +10,3 @@ waktu,mag,depth,lat,lon,tempat,kelas,kota,jarak_km,jarak_bkl
 09 Oct 16:47,4.9,40.5,-1.886,100.119,"60 km ENE of Tuapejat, Indonesia",Ringan,Padang,107,319
 09 Oct 01:33,4.0,10.0,-5.536,101.052,"234 km SW of Bengkulu, Indonesia",Ringan,Bengkulu,235,235
 08 Oct 22:23,4.7,41.6,-3.489,101.576,"84 km WNW of Bengkulu, Indonesia",Ringan,Bengkulu,83,83
-08 Oct 14:45,4.5,88.6,5.457,94.702,"70 km W of Banda Aceh, Indonesia",Ringan,Banda Aceh,69,1328
